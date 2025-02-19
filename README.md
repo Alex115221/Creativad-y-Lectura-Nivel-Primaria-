@@ -1,6 +1,9 @@
 # Creativad-y-Lectura-Nivel-Primaria-
 Clase semestral
+<body>
+    <div class="menu">
         <ul>
+        
             <li><a href="#" onclick="mostrarContenido('inicio')">Inicio</a></li>
             <li><a href="#" onclick="mostrarContenido('servicios')">Servicios</a></li>
             <li><a href="#" onclick="mostrarContenido('acerca')">Acerca de</a></li>

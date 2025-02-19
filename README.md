@@ -6,7 +6,5 @@ Clase semestral
             <li><a href="#" onclick="mostrarContenido('acerca')">Acerca de</a></li>
             <li><a href="#" onclick="mostrarContenido('contacto')">Contacto</a></li>
      
-
-    <script src="script.js"></script>
 </body>
 </html>

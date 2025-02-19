@@ -1,2 +1,2 @@
 # Creativad-y-Lectura-Nivel-Primaria-
-Clase semestra
+Clase semestral
